@@ -1,6 +1,6 @@
 {
   "name": "conswole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CONSWOLE THE CONSOLE",
   "main": "index.js",
   "scripts": {
